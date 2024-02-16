@@ -1,0 +1,49 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "models.html",
+    "href": "models.html",
+    "title": "models",
+    "section": "",
+    "text": "source\n\ntest\n\n test ()",
+    "crumbs": [
+      "models"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "wordslab-llms",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "wordslab-llms"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "wordslab-llms",
+    "section": "Install",
+    "text": "Install\npip install wordslab_llms",
+    "crumbs": [
+      "wordslab-llms"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "wordslab-llms",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "wordslab-llms"
+    ]
+  }
+]

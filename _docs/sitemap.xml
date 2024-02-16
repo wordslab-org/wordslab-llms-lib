@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wordslab-org.github.io/wordslab-llms-lib/index.html</loc>
-    <lastmod>2024-02-16T21:50:45.125Z</lastmod>
+    <loc>https://wordslab-org.github.io/wordslab-llms-lib/core.html</loc>
+    <lastmod>2024-02-16T21:21:49.615Z</lastmod>
   </url>
   <url>
     <loc>https://wordslab-org.github.io/wordslab-llms-lib/models.html</loc>
     <lastmod>2024-02-16T21:43:03.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wordslab-org.github.io/wordslab-llms-lib/index.html</loc>
+    <lastmod>2024-02-16T21:43:03.805Z</lastmod>
   </url>
 </urlset>
